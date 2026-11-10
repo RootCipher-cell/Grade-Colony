@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ColonyCore/ColonyCore.csproj" />
+  <Project Path="ColonyGrade Project/ColonyGrade Project.csproj" />
+  <Project Path="GUICOLONYPROJECT/GUICOLONYPROJECT.csproj" />
+</Solution>

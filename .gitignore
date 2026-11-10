@@ -1,0 +1,29 @@
+﻿# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet and local tooling
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Local application state
+*.txt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
