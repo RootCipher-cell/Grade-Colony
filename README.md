@@ -77,3 +77,7 @@ The applications create `grades.txt`, `colony.txt`, and `universities.txt` besid
 - Improve accessibility, responsive layout, and localization in the GUI.
 - Add richer progression, quests, balancing tools, and configurable university scenarios.
 - Add CI validation for restore, build, and tests on every pull request.
+
+## Maintainer
+
+Created and maintained by Rami Laalai.
