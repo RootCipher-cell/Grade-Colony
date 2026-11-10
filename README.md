@@ -77,3 +77,7 @@ The applications create `grades.txt`, `colony.txt`, and `universities.txt` besid
 - Improve accessibility, responsive layout, and localization in the GUI.
 - Add richer progression, quests, balancing tools, and configurable university scenarios.
 - Add CI validation for restore, build, and tests on every pull request.
+
+## Exercise collection
+
+The repository also includes the broader programming exercise collection under [`Exercises/`](./Exercises/). It is split into `Fundamentals`, `Applied`, and `GUI-Experiments`, with an [`Exercises.slnx`](./Exercises/Exercises.slnx) solution and dedicated instructions in [`Exercises/README.md`](./Exercises/README.md).
